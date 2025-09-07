@@ -1,0 +1,7 @@
+
+
+# SSHield Requirements
+# This project only uses Python's standard library.
+# No external dependencies are needed.
+
+python>=3.6
