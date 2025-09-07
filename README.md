@@ -37,3 +37,11 @@ Clone the repository and install dependencies (if any):
 git clone https://github.com/ali-ctf-player/SSHield.git
 cd SSHield
 ```
+
+
+## 🔥 Usage
+```bash
+python3 SSHield.py
+```
+
+made by ALiakbar Babayev
