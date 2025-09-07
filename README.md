@@ -8,7 +8,7 @@
 /____/____/_/ /_/_/\___/_/\__,_/  
    
    SSH Brute-force Detection Tool
-        by Aliakbar
+        by Aliakbar Babayev
 </pre>
 **SSHield** is a Python-based real-time brute-force attack detection tool.  
 It monitors SSH login attempts from system logs and helps identify suspicious activity such as repeated failed login attempts that may indicate a brute-force attack.  
